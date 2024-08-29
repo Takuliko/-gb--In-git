@@ -1,5 +1,10 @@
 # Памятка по git и его основнные команды
 changes
+
+
+some new changes
+
+
 ## I. git command
 1. git init- иниилизация репозитория 
 2. git status- текущий статус гит
